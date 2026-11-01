@@ -1,31 +1,68 @@
-# Peti-Shop 🐾
+<h1 align="center">🐾 Peti-Shop</h1>
 
-Projeto acadêmico de modelagem de dados para um sistema de gestão de pet shop, desenvolvido em grupo durante a graduação em Engenharia de Software.
+<h3 align="center">
+  Modelagem de Dados | Engenharia de Software
+</h3>
 
-## Sobre o projeto
+<p align="center">
+  Projeto acadêmico de modelagem de dados para gestão de pet shop.
+</p>
 
-O projeto propõe a organização dos dados de um pet shop, considerando as necessidades de controle e gerenciamento das informações do estabelecimento.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20desenvolvimento-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Área-Modelagem%20de%20Dados-6D28D9?style=for-the-badge">
+</p>
 
-## Problema identificado
+---
 
-A utilização de planilhas separadas e registros em papel pode dificultar a organização das informações, o controle de estoque e a integração entre as vendas e os produtos.
+## 📌 Sobre o Projeto
 
-## Objetivo
+O **Peti-Shop** é um projeto acadêmico desenvolvido em grupo durante
+a graduação em Engenharia de Software.
 
-Desenvolver a modelagem de dados de um sistema que contribua para organizar as informações e apoiar os processos de gestão de um pet shop.
+A proposta é estruturar os dados de um pet shop, considerando as
+necessidades de organização e gerenciamento das informações do negócio.
 
-## Modelagem de dados
+## 🎯 Objetivo
 
-Nesta etapa, foi desenvolvido o modelo conceitual para representar as principais entidades do sistema e seus relacionamentos.
+Projetar uma estrutura de dados que represente as principais informações
+e operações de um pet shop, contribuindo para uma gestão mais organizada.
 
-### Diagrama Entidade-Relacionamento (DER)
+## ⚠️ Problema Identificado
 
-O diagrama conceitual está disponível nos arquivos deste repositório.
+O uso de planilhas separadas e registros em papel pode dificultar
+a organização das informações, o controle de estoque e a integração
+entre produtos e vendas.
 
-## Status do projeto
+## 🗂️ Modelagem de Dados
+
+Nesta etapa, foi desenvolvido o **Diagrama Entidade-Relacionamento (DER) conceitual**,
+representando as entidades e os relacionamentos identificados no projeto.
+
+<div align="center">
+
+### 📊 Diagrama Entidade-Relacionamento
+
+<img src="der-conceitual.png" width="90%" alt="Diagrama conceitual do Peti-Shop">
+
+</div>
+
+## 🛠️ Ferramentas e Tecnologias
+
+- Modelagem de dados
+- Engenharia de Software
+
+## 📍 Status do Projeto
 
 Em desenvolvimento — etapa de modelagem conceitual.
 
-## Contexto acadêmico
+## 🎓 Contexto Acadêmico
 
-Projeto desenvolvido em grupo como atividade acadêmica do curso de Engenharia de Software.
+Projeto desenvolvido em grupo como atividade acadêmica do curso de
+Engenharia de Software.
+
+---
+
+<div align="center">
+  <sub>Projeto acadêmico Peti-Shop | Engenharia de Software</sub>
+</div>
